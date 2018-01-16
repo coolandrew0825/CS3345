@@ -1,13 +1,3 @@
-package project4;
-
-// Name:		Andrew Chen
-// Course:		CS 3345
-// Date:		03/27/16
-// Assignment:	project 4
-// Compiler:	Eclipse
-// Description:
-// User will run this program to create an user interface. Only the first option out of the six options does not work.
-
 import java.util.Arrays;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
