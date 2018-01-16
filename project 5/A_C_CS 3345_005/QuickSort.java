@@ -6,15 +6,6 @@ import java.io.PrintStream;
 import java.util.Random;
 import java.util.Scanner;
 
-// Name:		Andrew Chen
-// Course:		CS 3345
-// Date:		04/10/16
-// Assignment:	project 5
-// Compiler:	Eclipse
-// Description:
-// Users will run this program to sort randomly generated array, and the output will be printed 
-// into two files, unsorted.txt and sorted.txt.
-
 public class QuickSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
