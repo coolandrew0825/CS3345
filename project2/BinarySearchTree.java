@@ -2,9 +2,7 @@ package project2;
 
 import java.util.Scanner;
 
-// Name:		Andrew Chen
-// Course:		CS 3345
-// Date:		03/05/16
+// Course:	CS 3345
 // Assignment:	project 2
 // Compiler:	Eclipse
 // Description:
