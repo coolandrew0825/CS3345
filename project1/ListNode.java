@@ -1,6 +1,5 @@
 package project1;
 
-// Name:	Andrew Chen
 // Course:	CS 3345
 // Assignment:	project 1
 // Compiler:	Eclipse
