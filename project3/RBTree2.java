@@ -1,8 +1,6 @@
 package project3;
 
-// Name:		Andrew Chen
-// Course:		CS 3345
-// Date:		03/13/16
+// Course:	CS 3345
 // Assignment:	project 3
 // Compiler:	Eclipse
 // Description:
